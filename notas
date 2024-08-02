@@ -1,0 +1,103 @@
+<!-- VPN
+
+  <div class="col-sm-12 col-xl-6">
+            <div class="bg-light rounded h-100 p-4">
+              <h6 class="mb-4">Ejercicio 1</h6>
+              <div class="accordion" id="accordionExample">
+
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                      ¿Cuánto podrá retirar cada viernes durante 8 meses el
+                      ingeniero Serrano, si al comienzo del plazo deposita $30,000
+                      devengando intereses del 26% compuesto por semanas?
+                    </button>
+                  </h2>
+                  <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    <div class="accordion-body col-9 mx-auto">
+                      <div id="ejercicio_1_A"></div>
+                    </div>
+                  </div>
+                </div>
+
+
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm-12 col-xl-6">
+            <div class="bg-light rounded h-100 p-4">
+              <h6 class="mb-4">Ejercicio 2</h6>
+              <div class="accordion" id="accordionExample">
+
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                      La beneficiaria de un seguro de vida recibirá $3,100 mensuales
+                      durante 10 años, aunque prefiere que le den el equivalente total
+                      al inicio del plazo. ¿Cuánto le darán si el dinero reditúa en
+                      promedio el 19.35% anual compuesto por meses?
+                    </button>
+                  </h2>
+                  <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    <div class="accordion-body col-9 mx-auto">
+                      <div id="ejercicio_2_A"></div>
+                    </div>
+                  </div>
+                </div>
+
+
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm-12 col-xl-6">
+            <div class="bg-light rounded h-100 p-4">
+              <h6 class="mb-4">Ejercicio 3</h6>
+              <div class="accordion" id="accordionExample">
+
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                      La beneficiaria de un seguro de vida recibirá $3,100 mensuales
+                      durante 10 años, aunque prefiere que le den el equivalente total
+                      al inicio del plazo. ¿Cuánto le darán si el dinero reditúa en
+                      promedio el 19.35% anual compuesto por meses?
+                    </button>
+                  </h2>
+                  <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    <div class="accordion-body col-9 mx-auto">
+                      <div id="ejercicio_3_A"></div>
+                    </div>
+                  </div>
+                </div>
+
+
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm-12 col-xl-6">
+            <div class="bg-light rounded h-100 p-4">
+              <h6 class="mb-4">Ejercicio 4</h6>
+              <div class="accordion" id="accordionExample">
+
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                      Una pizzería compra una flotilla de motocicletas con un anticipo de $30,000 y el resto con
+                      10 abonos mensuales, de los cuales el último es de $5,250. ¿Cuál es el precio de contado de
+                      la flotilla, si se cargan intereses del 1.2% mensual sobre saldos insolutos?
+                    </button>
+                  </h2>
+                  <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    <div class="accordion-body col-9 mx-auto">
+                      <div id="ejercicio_4_A"></div>
+                    </div>
+                  </div>
+                </div>
+
+
+              </div>
+            </div>
+          </div> -->
